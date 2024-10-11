@@ -1,0 +1,153 @@
+Script started on Fri 27 Oct 2023 05:04:54 PM HST
+
+Sucessfully loaded the record data from result.txt
+
+This is an database user-interface
+
+Please choose one of the following menu option that you would like to proceed by type menu option at the bottom:
+
+      Menu Option   Description
+      add:          add a new record in the database
+      printall:     Print all records in the database
+      find:         Find record(s) with a specified account #
+      delete:       Delete existing record(s) from the database using the account# as a key
+      quit:         Quit the program
+
+Please enter here: ad
+
+********************************************************************************
+
+ To add a new record to the database, Please follow the instruction below
+
+Please enter your name: Yujin Chen
+
+Please enter the account number your want to create and add to the record: 100
+
+Please enter your address below and type dollar sign '$' end of your address: 
+Get full score st
+honolulu Hawaii
+96822$
+
+Thank you for your information.Your information will be added into the database.
+
+********************************************************************************
+
+This is an database user-interface
+
+Please choose one of the following menu option that you would like to proceed by type menu option at the bottom:
+
+      Menu Option   Description
+      add:          add a new record in the database
+      printall:     Print all records in the database
+      find:         Find record(s) with a specified account #
+      delete:       Delete existing record(s) from the database using the account# as a key
+      quit:         Quit the program
+
+Please enter here: [ p
+
+********************************************************************************
+
+The records will be printed
+
+
+--------------------------------------------
+Account Number: 100
+Name: Yujin Chen
+
+Address:
+Get full score st
+honolulu Hawaii
+96822
+
+
+--------------------------------------------
+
+********************************************************************************
+
+This is an database user-interface
+
+Please choose one of the following menu option that you would like to proceed by type menu option at the bottom:
+
+      Menu Option   Description
+      add:          add a new record in the database
+      printall:     Print all records in the database
+      find:         Find record(s) with a specified account #
+      delete:       Delete existing record(s) from the database using the account# as a key
+      quit:         Quit the program
+
+Please enter here: d f
+
+********************************************************************************
+
+To find your record, please following the instruction below
+
+Please enter the account number that is associated with the record you want to find: 100
+
+Thank you for enter your account number
+
+--------------------------------------------
+Account Number: 100
+Name: Yujin Chen
+
+Address:
+Get full score st
+honolulu Hawaii
+96822
+
+
+--------------------------------------------
+
+The record is found, printed above
+
+********************************************************************************
+
+This is an database user-interface
+
+Please choose one of the following menu option that you would like to proceed by type menu option at the bottom:
+
+      Menu Option   Description
+      add:          add a new record in the database
+      printall:     Print all records in the database
+      find:         Find record(s) with a specified account #
+      delete:       Delete existing record(s) from the database using the account# as a key
+      quit:         Quit the program
+
+Please enter here: d
+
+********************************************************************************
+
+To delete a record, please follow the instruction below
+
+Please enter your account number that wants to be deleted: 100
+
+Thank you for entering your account number
+
+Record found, we will delete the record associated with this account number
+
+********************************************************************************
+
+This is an database user-interface
+
+Please choose one of the following menu option that you would like to proceed by type menu option at the bottom:
+
+      Menu Option   Description
+      add:          add a new record in the database
+      printall:     Print all records in the database
+      find:         Find record(s) with a specified account #
+      delete:       Delete existing record(s) from the database using the account# as a key
+      quit:         Quit the program
+
+Please enter here: q
+
+********************************************************************************
+
+Successfully written the record data into the file result.txt
+
+Thank you for using the program, Your session will now be terminated
+
+
+********************************************************************************
+]0;yujin31@uhx02:~/project1 uhx02:/home/y/yujin31/project1% exit
+exit
+
+Script done on Fri 27 Oct 2023 05:07:29 PM HST
